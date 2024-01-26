@@ -2,7 +2,7 @@
 title: Youngmin Reminding Docs
 description: 'Programming Study'
 url: 'https://cleyfobre.github.io'
-baseurl: '/reminding-docs'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
