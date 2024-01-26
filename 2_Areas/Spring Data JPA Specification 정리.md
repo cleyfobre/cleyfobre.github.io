@@ -1,3 +1,0 @@
-#jpa #springjpa #specification
-
-#todo 
